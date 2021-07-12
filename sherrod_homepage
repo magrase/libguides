@@ -1,0 +1,1014 @@
+<body class="s-lg-guide-body">
+		<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to main content</a>
+        
+        <!-- BEGIN: Page Header -->
+        <div class="row-top">
+    <div style="main oveflow">
+      <div class="row_contain">
+        <div id="top_nav"> <a href="http://www.etsu.edu" title="East Tennessee State University" class="hidden-xs hidden-sm">
+          <p class="left_top_nav">East Tennessee State University</p>
+          </a>
+          <ul class="list-login">
+            <li class="top_nav_items alertnav"><a id="alertlink" href="https://www.etsu.edu/alert" title="Advisories">Advisories</a> </li>
+            <li class="top_nav_items goldlinknav"><a title="goldlink" href="https://goldlink.etsu.edu">Goldlink</a> </li>
+            <li class="top_nav_items goldlinknav"><a title="goldlink" href="https://webmail.etsu.edu">eMail</a> </li>
+            <li class="top_nav_items needhelpnav"><a title="d2l" href="https://elearn.etsu.edu/">D2L</a> </li>
+            <li class="top_nav_items safetynav"><a title="safety on campus" href="https://www.etsu.edu/safety/">Safety</a> </li>
+            <li class="top_nav_items azindexnav"><a title="a to z index" href="/az.php">A-Z 
+              Index</a> </li>
+          </ul>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+
+<div class="navbar yamm  navbar-default">  
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a href="//libraries.etsu.edu" class="navbar-brand">
+    
+    <img class="hidden-xs" alt="Sherrod Library logo for mobile devices" src="https://libs.etsu.edu/libguides/images/sherrodLogoWhite.png">
+
+<img class="visible-xs" alt="Sherrod Library logo" src="https://libs.etsu.edu/libguides/images/sherrodLogoWhite_xs.png">
+</a> </div>
+    <div id="navbar-collapse-1" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+      <ul class="nav navbar-nav navbar-right navbar-main">
+        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false" aria-haspopup="true">Research<b class="caret"></b></a>
+          <ul class="dropdown-menu" style="width: 100vw; margin-left: calc(-50vw + 50%);">
+            <li>
+              <div class="yamm-content">
+                <div class="row">
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/az.php"> <span class="fa fa-database fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Articles and Databases</h4>
+                    <p class="desc">Find articles in academic journals, popular magazines, and 
+                      newspapers. Find and connect to specialized research tools. </p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/research/books"> <span class="fa fa-book fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Books and eBooks</h4>
+                    <p class="desc">Find books in print or digital formats</p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/research/writecite"> <span class="fa fa-pencil fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Writing and Citation Style Guides and Tools</h4>
+                    <p class="desc">Organize and cite  sources in footnotes or endnotes,  make a 
+                      bibliography, use  citation
+                      management software. </p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/research/ejournals"> <span class="fa fa-files-o fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">eJournals</h4>
+                    <p class="desc">Browse online journals by title or subject.</p>
+                    </a> </div>
+                </div>
+                <p class="spacer"></p>
+                <div class="row">
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/research/how"> <span class="fa fa-search-plus fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Getting Started</h4>
+                    <p class="desc">Answers to your most common questions for conducting your library research.</p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/er.php"> <span class="fa fa-list fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Class Readings/Course Reserve</h4>
+                    <p class="desc">Find materials your instructor has reserved for your class.</p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/research/dataservices"><i class="fas fa-analytics fa-2x" id="align"></i>
+                    <h4 class="menu_hdr">Research Methods &amp; Data Sources</h4>
+                    <p class="desc">Research methods, data resources, and services to support your research.</p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="list_boundary" href="//libraries.etsu.edu/research/guides"> <span class="fa fa-compass fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Subject and Course Guides</h4>
+<p class="desc">
+                    </p></a><ul class="list-unstyled bullet_list"><a class="list_boundary" href="//libraries.etsu.edu/research/guides">
+                      </a><a href="//libraries.etsu.edu/course/guides" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Course Guides</li>
+                      </a> <a href="//libraries.etsu.edu/research/guides" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Subject Guides</li>
+                      </a>  <a href="//libraries.etsu.edu/topic/guides" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Topic Guides</li>
+                      </a>
+                    </ul>
+                    <p></p>
+                     </div>
+                </div>
+                <p class="spacer"></p>
+                <div class="row">
+                  <div class="col-xs12 col-sm-6 col-md-3"> <i class="fal fa-folder fa-2x" id="align"></i>
+                    <h4 class="menu_hdr">
+                      <a class="list_boundary" href="//libraries.etsu.edu/research/collections">Collections</a>
+                    </h4>
+                    <p>
+                    </p><ul class="list-unstyled bullet_list">
+                      <a href="//libraries.etsu.edu/research/collections/juvenile" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Juvenile Collections</li>
+                      </a> <a href="//libraries.etsu.edu/research/collections/dissertations" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>ETSU Theses and Dissertations</li>
+                      </a> <a href="//libraries.etsu.edu/research/collections/docslawmaps" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Government Information, Law and Maps</li>
+                      </a> <a href="//libraries.etsu.edu/research/collections/models" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Media,Music, Models</li>
+                      </a> <a href="//libraries.etsu.edu/research/collections/periodicals" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Microfilms, Newspapers, Periodicals</li></a>
+<a href="//libraries.etsu.edu/research/collections/suggest" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Suggest a Purchase</li></a>
+                    </ul>
+                    <p></p>
+                    </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <span class="fa fa-university fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Other ETSU Libraries</h4>
+                    <p>
+                    </p><ul class="list-unstyled bullet_list">
+                      <a href="https://www.etsu.edu/cas/cass/archives/" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Archives of Appalachia</li>
+                      </a> <a href="https://www.etsu.edu/medlib/" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Medical Library, Quillen College of Medicine</li>
+                      </a>
+                    </ul>
+                    <p></p>
+                   </div>
+                  <div class="col-xs12 col-sm-6 col-md-3">  <span class="fa fa-university fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">
+                      <a class="list_boundary" href="https://libraries.etsu.edu/research/digilib">Digital Scholarship Services</a>
+                    </h4>
+                    <p>
+                    </p><ul class="list-unstyled bullet_list">
+                      <!--<a href="https://libraries.etsu.edu/research/digilib" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Digital Commons@ETSU, SelectedWorks, ePublishing</li>
+                      </a>   --><a href="https://libraries.etsu.edu/research/digilib/" class="list_boundary_item">
+                              <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Digital Scholarship Services</li>
+                              </a> 
+							  
+							  <a href="https://libraries.etsu.edu/research/digilib/digitalcommons" class="list_boundary_item">
+                              <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Digital Commons@ETSU</li>
+                              </a> 
+							  
+							  <a href="https://libraries.etsu.edu/research/digilib/journal-conf" class="list_boundary_item">
+                              <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>eJournal and eConference Publishing</li>
+                              </a> 
+							  
+							  <a href="https://libraries.etsu.edu/research/digilib/selectedworks" class="list_boundary_item">
+                              <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>SelectedWorks Profiles</li>
+                              </a> 
+							  
+							  <a href="https://libraries.etsu.edu/research/digilib/experts" class="list_boundary_item">
+                              <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Expert Galleries and Faculty Works</li>
+                              </a> 
+                    </ul>
+                    <p></p>
+                  </div>
+					
+					<div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="/research/oer"> <span class="fa fa-unlock fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Open Educational Resources</h4>
+					<p class="desc">Open access educational resources for teaching and learning.</p>
+                    </a> </div>
+					
+                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false" aria-haspopup="true">Use the Library<b class="caret"></b></a>
+          <ul class="dropdown-menu" style="width: 100vw; margin-left: calc(-50vw + 50%);">
+            <li>
+              <div class="yamm-content">
+                <div class="row">
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/use/access"> <span class="fa fa-arrows-alt fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Access to eResources</h4>
+                    <p class="desc">How to connect to databases and get articles </p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/use/accessibility"> <span class="fa fa-wheelchair fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Accessibility</h4>
+                    <p class="desc">Access to library resources and services for users with disabilities </p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <span class="fa fa-exchange fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">
+                      <a class="list_boundary" href="//libraries.etsu.edu/use/borrow">Borrow, Renew, Request</a> 
+                    </h4>
+                    <p>
+                    </p><ul class="list-unstyled bullet_list">
+                      <a href="//libraries.etsu.edu/use/borrow/sherrod" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Sherrod Library</li>
+                      </a> <a href="//libraries.etsu.edu/use/borrow/etsunescc" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>ETSU and NeSCC Libraries</li>
+                      </a> <a href="//libraries.etsu.edu/use/ill" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i> Interlibrary Loan, Document Delivery</li>
+                      </a>
+                    </ul>
+                    <p></p>
+                    </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <span class="fa fa-desktop fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">
+                    <a class="list_boundary" href="//libraries.etsu.edu/use/computers">Computers,  Printing, Equipment</a> 
+                    </h4>
+                    <p>
+                    </p><ul class="list-unstyled bullet_list">
+                      <a href="//libraries.etsu.edu/use/computers" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Computers and Laptops</li>
+                      </a><!-- <a href="//libraries.etsu.edu/use/computers/equipment" 
+                                 class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Calculators, Headphones</li>
+                      </a>--> <a href="//libraries.etsu.edu/use/computers/charge" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Charge Mobile Devices</li>
+                      </a> <a href="//libraries.etsu.edu/use/computers/print" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Print / Copy</li>
+                      </a><a href="//libraries.etsu.edu/use/computers/lendingtech" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Lending Technology &amp; Personal Librarian Program</li>
+                      </a>
+                    </ul>
+                    <p></p>
+                    </div>
+                </div>
+                <p class="spacer"></p>
+                <div class="row">
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/use/scan"> <span class="fa fa-print fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Scan</h4>
+                    <p class="desc">Scan and print, save, or send documents, photographs, maps, and more. </p>
+                    </a> </div>
+                                    <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/use/quillen"> <span class="fa fa-building fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Quillen Conference Room and Gallery</h4>
+                    <p class="desc">ETSU-reservable conference room and reception area for small group meetings and special events. </p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/use/sherrod309"> <span class="fa fa-graduation-cap fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Sherrod 309 and 312</h4>
+                    <p class="desc">Academic collaboration and presentation space</p>
+                    </a> </div>
+                 <div class="col-xs12 col-sm-6 col-md-3"> <a target="_blank" class="boundary" href="//libraries.etsu.edu/use/tutoring"> <span class="fa fa-flask fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Tutoring</h4>
+                    <p class="desc">Help for students with writing, mathematics, natural sciences, and more. </p>
+                    </a> </div>
+                </div>
+                <p class="spacer"></p>
+                <div class="row">
+                  <div class="col-xs12 col-sm-6 col-md-3">  <span class="fal fa-book-open fa-2x" id="align"></span> 
+                    <h4 class="menu_hdr">
+                    <a class="list_boundary" href="//libraries.etsu.edu/use/study"> Rooms and Spaces</a>
+                    </h4>
+                    <p class="desc"> 
+                    </p><ul class="list-unstyled bullet_list">
+                      <a href="//libraries.etsu.edu/use/study/open" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Open Study Spaces</li></a>
+                      <a href="//libraries.etsu.edu/use/study/group" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Group Study</li></a>
+                      <a href="//libraries.etsu.edu/use/study/individual" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Individual Study</li></a>
+                      <a href="//libraries.etsu.edu/use/study/gradstudent" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Graduate Student Study</li></a>
+                      <a href="//libraries.etsu.edu/use/study/lactation" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Lactation Suite</li></a>
+                    </ul>
+                    <p></p>
+                    </div>
+                  <div class="col-xs12 col-sm-6 col-md-3">  <span class="fa fa-bar-chart fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">
+                    <a class="list_boundary" href="//libraries.etsu.edu/use/instruction">Instruction and Workshops</a> 
+                    </h4>
+                    <p class="desc">
+                    </p><ul class="list-unstyled bullet_list">
+                      <a href="//libraries.etsu.edu/use/instruction" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Library Instruction</li>
+                                </a><a href="//libraries.etsu.edu/use/instruction/tours" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Library Tours</li>
+                      </a> <a href="//libraries.etsu.edu/use/instruction/workshops" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Workshops</li>
+                      </a> <a href="//libraries.etsu.edu/use/instruction/tutorials" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Tutorial Videos</li></a> <a href="//libraries.etsu.edu/use/instruction/d2l" class="list_boundary_item">
+                      <li><i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Library Resources in D2L</li>
+                      </a>
+                    </ul>
+                    <p></p>
+                    </div>
+<div class="col-xs12 col-sm-6 col-md-3"> <a class="boundary" href="//libraries.etsu.edu/use/libraryambassadors"> <span class="fa fa-bullhorn fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Library Ambassadors</h4>
+                    <p class="desc">Sherrod Library Ambassador Program.</p>
+                    </a> </div>
+                  <div class="col-xs12 col-sm-6 col-md-3"> <a target="_blank" class="boundary" href="//libraries.etsu.edu/use/testing"> <span class="fa fa-pencil-square-o fa-2x" id="align"></span>
+                    <h4 class="menu_hdr">Testing Services</h4>
+                    <p class="desc">Administers ETSU D2L-based course tests, placement tests and the California Critical Thinking Skills Test (CCTST). </p>
+                    </a> </div>
+                  
+                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-
+                  toggle">About<b class="caret"></b></a>
+          <ul class="dropdown-menu" style="width: 100vw; margin-left: calc(-50vw + 50%);">
+            <div class="yamm-content">
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="boundary"> <a class="list_boundary" href="//libraries.etsu.edu/about/hours">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-clock-o fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Hours</h4>
+                    <p class="description">When is the building open, when is service available.</p>
+                    </a> </div>
+                </div>
+                <div class="col-md-3" style="display:none;">
+                  <div class="boundary"> <a class="list_boundary" href="//libraries.etsu.edu/about/maps">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-map-signs fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Facts, Figures and Floor Maps</h4>
+                    <p class="description">Data about collections, services, spaces, and use; annual reports; floor maps. </p>
+                    </a> </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="boundary">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-sitemap fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Directory and Floor Maps</h4>
+                    <ul class="list-unstyled bullet_list">
+                      <a href="//libraries.etsu.edu/about/directory" class="list_boundary_item">
+                      <li> <i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Staff and department directory</li>
+                      </a> <a href="//libraries.etsu.edu/about/maps" class="list_boundary_item">
+                      <li> <i class="fa fa-chevron-right fa-fw" aria-hidden="true"></i>Library floor maps</li>
+                      </a>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="boundary"> <a class="list_boundary" href="//libraries.etsu.edu/about/policies">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-paperclip fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Library Policies</h4>
+                    <p class="description">Library policies governing use of space and services, user conduct, and more. </p>
+                    </a> </div>
+                </div>
+
+                <div class="col-md-3">
+                  <div class="boundary"> <a class="list_boundary" href="http://www.etsu.edu/give">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-gift fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Give to the Library</h4>
+                    <p class="description">Make a difference--contribute to collections, student scholarships, learning and study spaces. </p>
+                    </a>
+                    <p></p>
+                  </div>
+                </div>
+
+              </div>
+
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="boundary"> <a class="list_boundary" href="//libraries.etsu.edu/about/plan">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-binoculars fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Sherrod Library Strategic Plan</h4>
+                    <p class="description">Current goals and plan to achieve them.</p>
+                    </a> </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="boundary"> <a class="list_boundary" href="//libraries.etsu.edu/about/sharing">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-share fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Resource Sharing</h4>
+                    <p class="description">Tenn-Share, Firefly Courier, Tennessee Electronic Library (TEL), TN eCampus, Cooperative Law Collection </p>
+                    </a>
+                    <p></p>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="boundary"> <a class="list_boundary" href="//libraries.etsu.edu/about/jobs">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fa fa-info fa-2x" aria-hidden="true" style="color: #696969;"></i></div>
+                    <h4 class="menu">Student Jobs, Scholarships, and Service Opportunities</h4>
+                    <p class="description">Apply for student worker, graduate assistant, temporary and full-time positions in the Sherrod Library. Apply for library-sponsored scholarships. </p>
+                    </a>
+                    <p></p>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="boundary"> <a class="list_boundary" href="//libraries.etsu.edu/about/campusmaps">
+                    <div style="float:left; display: inline; margin-left: 5px; "><i class="fas fa-map-marker-alt fa-2x" aria-hidden="true" style="color: #696969;"></i> </div>
+                    <h4 class="menu">Campus Maps, Directions, Parking</h4>
+                    <p class="description">Navigate to and around campus, get a parking permit, find parking. </p>
+                    </a> </div>
+                </div>
+              </div>
+              <div class="row">
+
+              </div>
+            </div>
+          </ul>
+        </li>
+        <li class="dropdown yamm-fw"> <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false" aria-haspopup="true">My Accounts<b class="caret"></b></a>
+          <ul class="dropdown-menu" style="width: 100vw; margin-left: calc(-50vw + 50%);">
+            <li>
+              <div class="yamm-content">
+                <div class="row">
+                  <h2 class="accounts">My Accounts</h2>
+                  <p class="">
+                  </p><div class="col-md-4">
+                    <div class="accounts_boundary"> <span class="fa fa-sign-in fa-2x" aria-="" hidden="true" style="color : #696969; margin-left: 25px; margin-top: 10px;"></span> <a href="https://etsu.primo.exlibrisgroup.com/discovery/login?vid=01ETSU_INST:ETSU&amp;lang=en" class="no_decoration">
+                      <h4 class="menu" style="margin-top: -23px; padding-left: 30px;">My Library Account </h4>
+                      </a> </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="accounts_boundary"> <span class="fa fa-sign-in fa-2x" aria-="" hidden="true" style="color : #696969; margin-left: 25px; margin-top: 10px;"></span> <a href="https://etsu.illiad.oclc.org/illiad/logon.html" class="no_decoration">
+                      <h4 class="menu" style="margin-top: -23px; padding-left: 30px;">Interlibrary Loan </h4>
+                      </a> </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="accounts_boundary"> <span class="fa fa-sign-in fa-2x" aria-="" hidden="true" style="color : #696969; margin-left: 25px; margin-top: 10px;"></span> <a href="https://elearn.etsu.edu/" class="no_decoration">
+                      <h4 class="menu" style="margin-top: -23px; padding-left: 30px;">Desire2Learn(D2L)/eLearn </h4>
+                      </a> </div>
+                  </div>
+                  <p></p>
+                </div>
+                <div class="row">
+                  <p class="">
+                  </p><div class="col-md-4">
+                    <div class="accounts_boundary"> <span class="fa fa-sign-in fa-2x" aria-="" hidden="true" style="color : #696969; margin-left: 25px; margin-top: 10px;"></span> <a href="https://goldlink.etsu.edu/" class="no_decoration">
+                      <h4 class="menu" style="margin-top: -23px; padding-left: 30px;">Goldlink</h4>
+                      </a> </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="accounts_boundary"> <span class="fa fa-sign-in fa-2x" aria-="" hidden="true" style="color : #696969; margin-left: 25px; margin-top: 10px;"></span> <a href="https://webmail.etsu.edu" class="no_decoration">
+                      <h4 class="menu" style="margin-top: -23px; padding-left: 30px;">ETSU eMail </h4>
+                      </a> </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="accounts_boundary"> <span class="fa fa-sign-in fa-2x" aria-="" hidden="true" style="color : #696969; margin-left: 25px; margin-top: 10px;"></span> <a href="https://dc.etsu.edu/cgi/myaccount.cgi?context=honors" class="no_decoration">
+                      <h4 class="menu" style="margin-top: -23px; padding-left: 30px;">ETSU Honors Thesis </h4>
+                      </a> </div>
+                  </div>
+                  <p></p>
+                </div>
+                <div class="row">
+                  <p class="">
+                  </p><div class="col-md-4">
+                    <div class="accounts_boundary"> <span class="fa fa-sign-in fa-2x" aria-="" hidden="true" style="color : #696969; margin-left: 25px; margin-top: 10px;"></span> <a href="https://dc.etsu.edu/cgi/myaccount.cgi?context=etd" class="no_decoration">
+                      <h4 class="menu" style="margin-top: -23px; padding-left: 30px;">ETSU Graduate Thesis and Dissertations </h4>
+                      </a> </div>
+                  </div>
+                  <p></p>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li id="myaccountsli" class="dropdown"><a title="Get Help" id="ask-link" target="_blank" href="http://libanswers.etsu.edu/" class="dropdown-toggle"><i class="far fa-comments fa-fw" aria-="" hidden="true" style="color:white;"></i> Get Help!</a></li>
+        
+      </ul>
+      
+      
+    </div>
+  </div>
+</div>
+<div id="search-back" style="display:none;" class="row">
+  <div id="search-box" class="row">
+    <div role="" class="" id="">
+      <form class="form-inline" method="get" action="//libraries.etsu.edu/search/">
+        <div class="col-lg-9">
+          <div class="input-group" style="width: 100%">
+            <input class="form-control" aria-label="search books, articles and more" id="searchQuery" name="query" type="text" placeholder="Find books, articles, media and more!" data-hj-whitelist="">
+            <span class="input-group-btn">
+            <button id="search-button" type="submit" class="btn btn-default">Search the Library</button>
+            </span> </div>
+        </div>
+        <div id="advanced-search" class="col-lg-3 center-block"><a target="_blank" href="https://etsu.primo.exlibrisgroup.com/discovery/search?vid=01ETSU_INST:ETSU&amp;mode=advanced">Advanced Search</a></div>
+        <div class="col-lg-12">
+          <p><i class="fa fa-info-circle"></i><a href="#" data-toggle="modal" data-target="#OneSearchModal" style="color:white;"> What am I searching? </a></p>
+        </div>
+        <div class="col-lg-12">
+          <p><a target="_blank" style="color:white" href="http://libraries.etsu.edu/az.php">Browse A-Z: Database</a> | <a target="_blank" style="color:white" href="https://browzine.com/libraries/1168/subjects">Journals</a> </p>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<!-- Modal -->
+<div id="OneSearchModal" class="modal fade" role="dialog">
+  <div class="modal-dialog"> 
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">×</button>
+        <h4 class="modal-title">What am I searching?</h4>
+      </div>
+      <div class="modal-body"> 
+        <!--<p>searches most library resources in a single search and includes: </p>-->
+        <ul>
+          <li>Journal Articles</li>
+          <li>Books &amp; eBooks</li>
+          <li>Journal Titles</li>
+          <li>Media (Streaming Audio/Video, CD's, DVD's, and Images)</li>
+          <li>Database Titles</li>
+          <li>Dissertations &amp; Theses</li>
+          <li>Subject and Course Guides</li>
+          <li>Frequently Asked Questions</li>
+          <li>Library Website</li>
+        </ul>
+<p>To go directly to OneSearch,  <a target="_blank" href="https://libs.etsu.edu/onesearch">click here</a>. </p>
+        <p>For more precise in-depth searching, try using <a target="_blank" href="https://etsu-edu-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01ETSU&amp;sortby=rank&amp;lang=en_US&amp;mode=advanced">Advanced Search</a>. </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--<script>
+var SHLAlert = new XMLHttpRequest();
+  SHLAlert.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+console.log("Response: "+this.responseText);
+		var pre = '<div class="alert alert-warning alert-dismissible" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>';
+		var post= '</div>';
+
+		if (this.responseText != ''){
+			document.getElementById("SHLAlert").innerHTML = pre+this.responseText+post;
+		}
+    }
+};
+SHLAlert.open("GET", "https://libs.etsu.edu/shl-alert/README.md", true);
+SHLAlert.send();
+</script>-->
+
+<div id="corona_alerts">
+    <h2 style="color:#041E42; font-size:2.5em; font-weight: 800;">
+      Library Updates and News
+    </h2>
+    
+    <div class="quick-container">
+      <div class="link-set">
+       <h4 style="color: #041E42">
+        <a href="https://libraries.etsu.edu/blog" style="color:#041E42; padding: 10px; font-size: 20px;">Get the latest information</a>
+        </h4>
+      </div>
+    </div>  
+        
+</div>
+<div id="SHLAlert"></div>
+        <!-- END: Page Header -->
+        <!-- BEGIN: Guide Header -->
+  		<div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+            <div id="s-lib-bc">
+                <div class="container">
+
+<div class="container" style=" background-color: #eee; margin-bottom:45px; width: 99.6vw; margin-left: calc(-50vw + 50%);">
+
+<div class="col-md-12" style="background-color: #eee;">
+  <div class="container">
+    <div style="font-size: 18px; letter-spacing:-0.5px;" id="TheHours"><a href="about/hours">Monday Jul 12, 2021 Building Hours -  7:30am - 10pm</a> <span class="label label-success">OPEN</span><div style="float: right;"><a href="//libanswers.etsu.edu/">Online Assistance Hours : 7:30am - 10pm</a></div></div>
+    <!--<script type="text/javascript" src="https://libs.etsu.edu/sherrod/libcal/api/buildinghours.js"></script>-->
+    <script type="text/javascript" src="https://libs.etsu.edu/libcal-hours-proxy/js/render-hours-bar.js"></script>
+    <script type="text/javascript" src="https://libs.etsu.edu/libcal-hours-proxy/js/render-service-desk.js"></script>
+  </div>
+</div>
+
+</div>
+
+<div class="row" style="margin-top:15px; margin-bottom:-40px;">
+
+</div>
+
+               
+
+            </div>
+            </div>
+           		<div class="pull-right">
+				<div id="s-lg-guide-header-search">
+				</div>
+				
+			</div>
+            <div id="s-lg-guide-header-info">
+                <h1 id="s-lg-guide-name">Home</h1>
+                <div id="s-lg-guide-desc-container">
+                    <span id="s-lg-guide-description"></span>
+                </div>
+            </div>
+        </div>
+        <!-- END: Guide Header -->
+       
+   <div id="s-lg-side-nav-content" class="container s-lib-side-borders pad-top-med">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-3 col-sm-6"> 
+							<div id="s-lg-box-wrapper-18154870" class="s-lg-box-wrapper-18154870">
+					<div id="s-lg-box-15399631-container" class="s-lib-box-container">
+						<div id="s-lg-box-15399631" class="s-lib-box s-lib-box-std s-lib-floating-box">
+							
+							<div id="s-lg-box-collapse-15399631">
+								<div class="s-lib-box-content s-lib-floating-box-content">
+									
+			<div id="s-lg-content-33540009" class="  clearfix">
+				<div class="panel"><!--  Databases contents -->
+<div class="panel-heading top_links">
+<h3 class="section_heading"><a href="/az.php" style="text-decoration:none;" target="_blank">Top Databases</a> <i class="fa fa-external-link"> </i></h3>
+</div>
+<!-- List -->
+
+<p><i aria-hidden="true" class="fas fa-database fa-fw" id="align"></i><a href="https://libs.etsu.edu/links/ccm.html" target="_blank">CINAHL</a><br>
+<i aria-hidden="true" class="fas fa-database fa-fw" id="align"></i><a href="https://libs.etsu.edu/links/eric.html" target="_blank">ERIC</a><br>
+<i aria-hidden="true" class="fas fa-database fa-fw" id="align"></i><a href="https://libs.etsu.edu/links/jstor.html" target="_blank">JSTOR</a><br>
+<i aria-hidden="true" class="fas fa-database fa-fw" id="align"></i><a href="https://libs.etsu.edu/links/psyi.html" target="_blank">PsychInfo</a><br>
+<i aria-hidden="true" class="fas fa-database fa-fw" id="align"></i><a href="https://libs.etsu.edu/links/pubmed.html" target="_blank">PubMed</a><br>
+<a href="/az.php" style="line-height:2.5;" target="_blank">View All Databases</a></p>
+</div>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div> </div>
+        <div class="col-xs-12 col-md-3 col-sm-6"> 
+							<div id="s-lg-box-wrapper-18155165" class="s-lg-box-wrapper-18155165">
+					<div id="s-lg-box-15399880-container" class="s-lib-box-container">
+						<div id="s-lg-box-15399880" class="s-lib-box s-lib-box-std s-lib-floating-box">
+							
+							<div id="s-lg-box-collapse-15399880">
+								<div class="s-lib-box-content s-lib-floating-box-content">
+									
+			<div id="s-lg-content-33541047" class="  clearfix">
+				<div class="panel"><!-- Quick Links contents -->
+<div class="panel-heading  top_links">
+<h3 class="section_heading"><a href="/quicklinks" style="text-decoration:none;" target="_blank">Quick Links</a> <i class="fa fa-external-link"></i></h3>
+</div>
+<!-- List -->
+
+<p><i aria-hidden="true" class="fa fa-arrows-alt fa-fw" id="align"></i><a href="/use/access">Access to eResources</a><br>
+<i aria-hidden="true" class="fa fa-exchange fa-fw" id="align"></i><a href="use/borrow">Borrow, Renew, Request</a><br>
+<i aria-hidden="true" class="fa fa-calendar fa-fw" id="align"></i><a href="http://libcal.etsu.edu/appointments/" style="margin-left: 10px;" target="_blank">Research Help Appointments</a><br>
+ 
+<i aria-hidden="true" class="far fa-book-reader fa-fw" id="align"></i><a href="/research/guides" style="margin-left: 9px;">Subject &amp; Course Guides</a><br>
+<i aria-hidden="true" class="fa fa-sitemap fa-fw" id="align"></i><a href="/about/directory">People and Offices</a><br>
+<i aria-hidden="true" class="fa fa-pencil-square-o fa-fw" id="align"></i><a href="/use/testing" style="margin-left: 9px;" target="_blank">Testing Services</a><br>
+<i aria-hidden="true" class="fa fa-flask fa-fw" id="align"></i><a href="/use/tutoring" style="margin-left: 5px; " target="_blank"> Tutoring Services</a></p>
+</div>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div> </div>
+        <div class="col-xs-12 col-md-3 col-sm-6"> 
+							<div id="s-lg-box-wrapper-18155262" class="s-lg-box-wrapper-18155262">
+					<div id="s-lg-box-15399962-container" class="s-lib-box-container">
+						<div id="s-lg-box-15399962" class="s-lib-box s-lib-box-std s-lib-floating-box">
+							
+							<div id="s-lg-box-collapse-15399962">
+								<div class="s-lib-box-content s-lib-floating-box-content">
+									
+			<div id="s-lg-content-33541401" class="  clearfix">
+				<div class="panel"> 
+  
+  <!-- Computers content -->
+  
+  <div class="panel-heading  top_links">
+    <h3 class="section_heading"><a style="text-decoration:none;" target="_blank" href="//libraries.etsu.edu/use/computers">Computers</a> <i class="fa fa-external-link"> </i></h3>
+  </div>
+  
+  <!-- List  -->
+  
+   <p> <a href="//libraries.etsu.edu/use/computers">Available Now</a> </p>
+  <div class=""> <i class="fas fa-desktop fa-fw" aria-hidden="true" id="align"></i> Lab Desktops:
+    <div style="float:right; margin-right:40px;" id="availDesktops">
+
+<style>
+body#CAM {
+   margin: 0px;
+}
+</style>
+
+
+102
+
+</div>
+    <!--<script type="text/javascript" src="https://libs.etsu.edu/sherrod/laptops/available.js"></script> <br>
+    <i class="fas fa-laptop fa-fw" aria-hidden="true" id="align"></i> Laptops:
+    <div style="float:right; margin-right:40px;" id="availLaptops">Loading...</div>-->
+    <script type="text/javascript" src="https://libs.etsu.edu/sherrod/pcs/available.js"></script> <br>
+  </div>
+</div>
+
+<br>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div> </div>
+        <div class="col-xs-12 col-md-3 col-sm-6"> 
+							<div id="s-lg-box-wrapper-18155317" class="s-lg-box-wrapper-18155317">
+					<div id="s-lg-box-15400013-container" class="s-lib-box-container">
+						<div id="s-lg-box-15400013" class="s-lib-box s-lib-box-std s-lib-floating-box">
+							
+							<div id="s-lg-box-collapse-15400013">
+								<div class="s-lib-box-content s-lib-floating-box-content">
+									
+			<div id="s-lg-content-33541607" class="  clearfix">
+				<div class="panel"> 
+  
+  <!-- Study spaces contents -->
+  
+  <div class="panel-heading  top_links">
+    <h3 class="section_heading"><a style="text-decoration:none;" target="_blank" href="/use/study">Study Spaces</a> <i class="fa fa-external-link"> </i></h3>
+  </div>
+  
+  <!-- Study -->
+  
+  <p> 
+   	<!-- <i class="fa fa-moon-o fa-fw" id="align"></i><a href="/use/study/24hour">24-Hour Study</a><br> -->
+    <i class="fa fa-group fa-fw" id="align"></i><a href="/use/study/group">Group Study</a><br>
+    <i class="fa fa-user fa-fw" id="align"></i><a href="/use/study/individual">Individual Study</a><br>
+   <!-- <i class="fa fa-volume-off fa-fw"></i><a href="/use/study/silent">Silent Study</a><br>-->
+  </p>
+  
+</div>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div> </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6"> 
+							<div id="s-lg-box-wrapper-18155397" class="s-lg-box-wrapper-18155397">
+					<div id="s-lg-box-15400074-container" class="s-lib-box-container">
+						<div id="s-lg-box-15400074" class="s-lib-box s-lib-box-std s-lib-floating-box">
+							
+							<div id="s-lg-box-collapse-15400074">
+								<div class="s-lib-box-content s-lib-floating-box-content">
+									
+			<div id="s-lg-content-33541722" class="  clearfix">
+				<p>
+  <span style="font-size: 18pt;">
+    <strong>
+      </strong></span></p><h3 class="section_heading"><strong>
+                   <a href="https://go.activecalendar.com/etsu/site/libraries/" style="text-decoration:none;">
+        News, Events &amp; Exhibits <i class="fa fa-external-link"> </i>
+                  </a>
+      </strong></h3><strong>
+    </strong>
+  
+<p></p>
+
+<div style="width: inherit; border: 0px solid #d8dec6; margin-bottom: 20px; border-radius: 4px; margin-top: 20px;">
+
+      <!--Main Page Events Slider-->
+
+<object width="100%" height="240px" data="https://libs.etsu.edu/etsu_calendar/slider.html"></object>
+
+</div>
+		   </div>
+			<div id="s-lg-content-33594020" class="  clearfix">
+				<object width="100%" height="330px" scrolling="no" data="https://libs.etsu.edu/etsu_calendar/upcoming.html"></object>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div></div>
+        <div class="col-md-6"> 
+							<div id="s-lg-box-wrapper-18175126" class="s-lg-box-wrapper-18175126">
+					<div id="s-lg-box-15415685-container" class="s-lib-box-container">
+						<div id="s-lg-box-15415685" class="s-lib-box s-lib-box-std s-lib-floating-box">
+							
+							<div id="s-lg-box-collapse-15415685">
+								<div class="s-lib-box-content s-lib-floating-box-content">
+									
+			<div id="s-lg-content-33571361" class="  clearfix">
+				<div id="portal-menu">
+<div aria-multiselectable="true" class="panel-group" id="portal-menu-accordion" role="tablist" style="margin-bottom:unset;">
+<div class="panel panel-default">
+<div class="panel-heading" id="portal-menu-1" role="tab">
+<h2 class="panel-title"><a aria-controls="collapse1" aria-expanded="false" class="collapsed" data-parent="#portal-menu-accordion" data-toggle="collapse" href="#collapse1" onclick="ga('send','event','Homepage','Aud Menu','Grad Students');" aria-selected="false" tabindex="-1">Graduate Students </a></h2>
+</div>
+
+<div aria-labelledby="portal-menu-1" class="panel-collapse collapse" id="collapse1" role="tabpanel" aria-expanded="false" style="height: 0px;" aria-selected="false" tabindex="-1" aria-hidden="true">
+<div class="panel-body">
+<ul><ouc:div button-text="Edit Graduate Student Links" group="Everyone" label="Aud_Grad"> <ouc:editor cssmenu="/_resources14/ou/editor/maincontent.css"></ouc:editor>
+	<li><a href="/research/writecite">Citation Management</a></li>
+	<li><a href="/use/instruction">Instruction and Workshops</a></li>
+	<li><a href="https://libcal.etsu.edu/appointments/">Make an Appointment for Research Help</a></li>
+	<li><a href="/use/study">Study Spaces</a></li>
+	<li><a href="/about/jobs/ga">Graduate Assistant Jobs and Scholarships</a></li>
+	<li><a href="/course/guides/nursing/graduate">Library Services for Graduate Nursing Students</a></li>
+        <li><a href="/use/computers/lendingtech">Lending Technology &amp; Personal Librarian Program</a></li>
+	</ouc:div>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" id="portal-menu-2" role="tab">
+<h2 class="panel-title"><a aria-controls="collapse2" aria-expanded="false" class="collapsed" data-parent="#portal-menu-accordion" data-toggle="collapse" href="#collapse2" onclick="ga('send','event','Homepage','Aud Menu','Undergrad Students');">Undergraduate Students </a></h2>
+</div>
+
+<div aria-labelledby="portal-menu-2" class="panel-collapse collapse" id="collapse2" role="tabpanel" aria-expanded="false">
+<div class="panel-body">
+<ul><ouc:div button-text="Edit Undergrad Student Links" group="Everyone" label="Aud_Undergrad"> <ouc:editor cssmenu="/_resources14/ou/editor/maincontent.css"></ouc:editor>
+		<li><a href="http://libcal.etsu.edu/appointments/">Make an Appointment for Research Help</a></li>
+		<li><a href="/use/instruction/tutorials">Video Tutorials</a></li>
+		<li><a href="/use/tutoring">Tutoring Services</a></li>
+		<li><a href="/use/testing">Testing Services</a></li>
+		<li><a href="/use/study">Study Spaces</a></li>
+		<li><a href="/use/libraryambassadors">ETSU Library Ambassador Program</a></li>
+                <li><a href="/use/computers/lendingtech">Lending Technology &amp; Personal Librarian Program</a></li>
+	</ouc:div>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" id="portal-menu-4" role="tab">
+<h2 class="panel-title"><a aria-controls="collapse4" aria-expanded="true" class="" data-parent="#portal-menu-accordion" data-toggle="collapse" href="#collapse4" onclick="ga('send','event','Homepage','Aud Menu','Fac/Staff');" aria-selected="true" tabindex="0">Faculty/Staff </a></h2>
+</div>
+
+<div aria-labelledby="portal-menu-4" class="panel-collapse collapse in" id="collapse4" role="tabpanel" aria-expanded="true" style="" aria-hidden="false" tabindex="0">
+<div class="panel-body">
+<ul><ouc:div button-text="Edit Faculty/Staff Links" group="Everyone" label="Aud_FacStaff"> <ouc:editor cssmenu="/_resources14/ou/editor/maincontent.css"></ouc:editor>
+	<li><a href="/research/writecite">Citation Management</a></li>
+	<li><a href="/use/instruction">Instruction and Workshops</a></li>
+	<li><a href="https://libcal.etsu.edu/appointments/">Make an Appointment for Research Help</a></li>
+	<li><a href="/research/coursereserve/faculty">Course Reserves</a></li>
+	<li><a href="/research/digilib/">Digital Commons@ETSU and Selected Works</a></li>
+	<li><a class="internal-link" href="/use/sherrod309">Sherrod 309</a></li>
+	<li><a class="internal-link" href="/use/quillen">Quillen Conference Room</a></li>
+	<li><a href="/use/access">Access Off Campus</a></li>
+	<li><a href="https://libraries.etsu.edu/course/guides/nursing/faculty">Library Services for Nursing</a></li>
+	</ouc:div>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" id="portal-menu-5" role="tab">
+<h2 class="panel-title"><a aria-controls="collapse5" aria-expanded="false" class="collapsed" data-parent="#portal-menu-accordion" data-toggle="collapse" href="#collapse5" onclick="ga('send','event','Homepage','Aud Menu','Alum/Visitors');">Alumni/Visitors </a></h2>
+</div>
+
+<div aria-labelledby="portal-menu-5" class="panel-collapse collapse" id="collapse5" role="tabpanel" aria-expanded="false">
+<div class="panel-body">
+<ul><ouc:div button-text="Edit Alumni Links" group="Everyone" label="Aud_Alum"> <ouc:editor cssmenu="/_resources14/ou/editor/maincontent.css"></ouc:editor>
+		<li><a class="internal-link" href="/about/hours">Library Hours</a></li>
+		<li><a href="/about/campusmaps">Campus Maps</a></li>
+	</ouc:div>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading" id="portal-menu-6" role="tab">
+<h2 class="panel-title"><a aria-controls="collapse6" aria-expanded="false" class="collapsed" data-parent="#portal-menu-accordion" data-toggle="collapse" href="#collapse6" onclick="ga('send','event','Homepage','Aud Menu','Distance Online');">Distance Education/Online Services</a></h2>
+</div>
+
+<div aria-labelledby="portal-menu-6" class="panel-collapse collapse" id="collapse6" role="tabpanel" aria-expanded="false">
+<div class="panel-body">
+<ul><ouc:div button-text="Edit Graduate Student Links" group="Everyone" label="Aud_Grad"> <ouc:editor cssmenu="/_resources14/ou/editor/maincontent.css"></ouc:editor>
+	<li><a href="/use/distance">Distance Education/Online Library Resources and Services</a></li>
+        <li><a href="/use/computers/lendingtech">Lending Technology &amp; Personal Librarian Program</a></li>
+
+	</ouc:div>
+</ul>
+</div>
+</div>
+</div>
+<br>
+<!--<p style="padding-left: .5em;"><a href="/services" class="more" onclick="ga('send','event','Homepage','Aud Menu','More');">MORE<span class="sr-only"> library services</span></a></p>--></div>
+</div>
+<!-- Persistent accordion code  --><script>
+$( document ).ready(function() {
+    var lastPanel = getCookie("shl-panel-home");
+    if (lastPanel != 'portal-menu-1'){
+        $("#"+lastPanel+" h2 a").trigger("click");
+    }
+});
+
+$(".panel.panel-default .panel-heading h2 a").click(function(){
+	var id = $(this).parent().parent().attr('id');
+	console.log("panel id="+id);
+	document.cookie = "shl-panel-home="+id;
+});
+
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+</script>
+		   </div>
+			<div id="s-lg-content-33594081" class="  clearfix">
+				<h3 class="long_section_heading"><a href="//libraries.etsu.edu/about/give" style="text-decoration:none;">Make a difference - Give to the libraries</a></h3>
+
+<div style="border-style: none;"><img alt="Give to the libraries " loading="lazy" src="https://libapps.s3.amazonaws.com/customers/141/images/4741c1.jpg" style="float: left; margin-right: 10px;">
+<div>
+<p>Contribute to collections, student scholarships, learning and study spaces.</p>
+<a href="https://securelb.imodules.com/s/974/giving/interior.aspx?sid=974&amp;gid=1&amp;pgid=3729&amp;cid=5346" target="_blank"><img alt="Give to The Libraries" loading="lazy" src="https://libapps.s3.amazonaws.com/customers/141/images/GiveNowLibrary.png" width="150px"></a></div>
+</div>
+
+<div id="libchat_e0222ef762b7ad919b9720733cb014f6">&nbsp;</div>
+
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div> </div>
+      </div>
+    </div>
+  </div>
+
+
+        <!-- BEGIN: Page Footer -->
+        <div id="s-lib-footer-public" class="s-lib-footer footer container  s-lib-side-borders">
+            <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+                <ul id="s-lg-guide-header-attributes" class="">
+                    <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Jun 22, 2021 9:47 PM</span>                    </li>
+                    <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">https://libraries.etsu.edu/home</span>
+                    </li>
+                    <li id="s-lg-guide-print-url">
+                    	<a href="javascript: window.print();"><i class="fa fa-print" aria-hidden="true" title="Print Page"></i> Print Page</a>
+                    </li>	
+                    </ul>
+                <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+                    <a href="https://etsu.libapps.com/libapps/login.php?site_id=149&amp;target64=L2xpYmd1aWRlcy9hZG1pbl9jLnBocD9nPTY5MTY3MSZwPTQ4OTQ3MzQ=">Login to LibApps</a>                </div>
+            </div>
+            <div class="pad-bottom-sm clearfix">
+                <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                    <a href="mailto:libsupport@etsu.edu">Report a problem</a> 
+                </div>
+                <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                    
+                </div>
+                <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                    
+                </div>
+            </div>
+        </div>
+        <!-- END: Page Footer -->
+        
+			<div id="s-lib-scroll-top">
+				<a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop: 0}, 750);" title="Back to Top" aria-label="Back to Top" aria-hidden="true">
+					<span class="fa-stack fa-lg">
+					  <i class="fa fa-square-o fa-stack-2x"></i>
+					  <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+					</span>
+				</a>
+			</div>        <div id="s-lib-alert" title="">
+                            <div id="s-lib-alert-content"></div>
+                       </div>
+                <!-- BEGIN: Custom Footer -->
+                
+<div id="footer_top">
+    <div class="row" id="footer_top_row">
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+            <div class="left-col-wrapper">
+                    <div label="footer_address" id="footer_address">
+                            <a target="_blank" href="https://www.google.com/maps?q=Charles+C+Sherrod+Library">Charles C. Sherrod Library<br>344 J L Seehorn Jr Rd<br>Campus Box 70665<br>Johnson City, TN 37614-1701</a>
+                            
+                            <p class="footer-telephone">Telephone <a href="tel:+14234394307">(423) 439-4307</a><br>Toll-Free: <a href="tel:+18665423878">1-866-542-3878</a> (1-866-LIB-ETSU)
+                            </p>
+                        </div>
+            
+                        <div class="maps-and-logo">
+                            <p><a class="btn btn-block" style="background-color: #002D4C" target="_blank" href="//libraries.etsu.edu/about/campusmaps"><strong style="font-size: 12px;">Maps, Directions, Parking</strong></a></p>
+                            <a target="_blank" href="https://www.fdlp.gov/"> <p style="letter-spacing:-0.5px; word-spacing:-0.5px"><img style="width: 35px; height: 34px; margin-right: 5px;" src="https://libs.etsu.edu/libguides/images/depository_library_logo.png" alt="Selective Federal Depository Library Logo" width="60" height="53">Selective Federal Depository Library
+                             </p></a>
+                        </div>
+            </div>
+        </div>
+
+        
+        
+        <div class="col-lg-6 col-md-6 col-sm-4 col-xs-12">
+            <div label="footer_depository" class="footer_uni_logo">
+                <p><a target="_blank" href="https://www.etsu.edu"><img id="ETSU_logo" src="https://libs.etsu.edu/libguides/images/footer_logo_2014.png" alt="East Tennessee State University Link"></a></p>
+                <p class="hidden-xs"><a target="_blank" id="give_link_footer" href="//libraries.etsu.edu/about/give">Make a difference -- give to the libraries!</a></p>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+            <div label="footer_links" id="footer_links">
+                <h4 class="social_links_header">Stay Connected!</h4>
+                <ul class="list-group social_links">
+                    <li><i class="fab fa-facebook-f fa-fw" aria-hidden="true"></i><a target="_blank" href="https://www.facebook.com/sherrodlibrary/">Facebook</a></li>
+                    <li><i class="fab fa-twitter fa-fw" aria-hidden="true"></i><a target="_blank" href="https://twitter.com/sherrodlibrary">Twitter</a></li>
+                    <li><i class="fab fa-youtube fa-fw" aria-hidden="true"></i><a target="_blank" href="https://www.youtube.com/channel/UCoBQEGTVx2tDIoveiMSlR3A">Youtube</a></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="libchat_e0222ef762b7ad919b9720733cb014f6"></div>
+<script>document.getElementById('searchQuery').value =getParameterByName('query');</script>
+
+		<!-- END: Custom Footer -->
+	<div id="lcs_slide_out-11551" class="lcs_slide_out lcs_slide_out-r"><div class="tab_overlay"></div><header aria-labelledby="lcs_slide_out_button-11551"><a id="lcs_slide_out_button-11551" role="button" aria-controls="lcs_slide_out-11551" aria-expanded="false" href="#" style="border-color: rgb(255, 255, 255); color: rgb(255, 255, 255); background-color: rgb(4, 30, 66); box-shadow: rgb(204, 204, 204) 0px 0px 5px; border-width: 0px 4px 4px;">Chat with Us</a></header><div class="lcs_load" aria-hidden="true"></div></div></body>
