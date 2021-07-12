@@ -1,0 +1,173 @@
+<style>
+    /* Hide the search box */
+    #col-search {
+        display: none;
+    }
+    </style>
+    
+    <body class="s-lib-public-body">
+    {{skip_link}}
+    <!-- BEGIN: Page Header -->
+    {{public_header}}
+    <!-- END: Page Header -->
+    <!-- BEGIN: Content Header -->
+    </div>
+    <!-- END: Content Header -->
+    <!-- BEGIN: Nav Bar -->
+    <div id="s-lib-public-nav" class="container s-lib-side-borders">
+        {{page_nav}}
+    </div>
+    <!-- END: Nav Bar -->
+    <!-- BEGIN: content -->
+    
+    <div class="body-wrap">
+    <!-- BEGIN: Guide Info Header -->
+            <div id="s-lg-guide-header" class="s-lib-header s-lib-side-borders" style="margin-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 col-md-8">
+                        <div id="s-lg-guide-header-info">
+                            <h1 id="s-lg-guide-name">{{page_title}}: <small style="color: #FFF;">{{page_description}}</small></h1>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4">
+                        <div class="">
+                            <!-- pull-right -->
+                            <div id="s-lg-guide-header-search">
+                                {{search_guides}}
+                            </div>
+                            {{ADMIN_MINI_CMD_BAR}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END: Guide Info Header -->
+            <div id="s-lib-bc">
+                {{breadcrumbs}}
+            </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    <div id="s-lib-public-main" class="s-lib-main container s-lib-side-borders">
+        <section>
+            <div id="s-lg-az-search-bar" class="row">
+                <div id="az-search-col-1" class="col-md-12 center">
+    
+                   <!-- navbar_wide -->
+    <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#s-lg-az-nav-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="s-lg-az-nav-1">
+                        <div id="s-lg-az-filters" style="padding-top:7px;">
+                            <section>
+                                <div id="s-lg-az-filter-cols" class="row">
+                                    <div id="col-subjects" class="col-md-4 center">
+                <label class="control-label sr-only" for="s-lg-sel-subjects">Database Subject Filter</label>
+                <select id="s-lg-sel-subjects" name="s-lg-sel-subjects" class="form-control" data-placeholder="All Subjects" onchange="springSpace.publicObj.filterAzBySubject(jQuery(this).val(), 4248);">
+                <option value="" selected="">All Subjects</option>
+                    <optgroup label="Subjects">
+                    <option value="67432">Business (39)</option>
+                    <option value="67438">Citations (2)</option>
+                    <option value="67431">Dental Medicine (27)</option>
+                    <option value="67434">Education (29)</option>
+                    <option value="67433">Engineering &amp; Technology (17)</option>
+                    <option value="67441">Faculty Resources (8)</option>
+                    <option value="67436">Fine Arts &amp; Communications (41)</option>
+                    <option value="67435">Government (19)</option>
+                    <option value="67428">Humanities (47)</option>
+                    <option value="67440">Library Instruction (3)</option>
+                    <option value="67437">Maps and GIS (1)</option>
+                    <option value="67424">Nursing (42)</option>
+                    <option value="67439">Pharmacy (33)</option>
+                    <option value="67425">Sciences (23)</option>
+                    <option value="67427">Social Sciences (54)</option>
+                    <option value="67430">Special Topics (2)</option>
+                    <option value="67426">Technology (2)</option></optgroup>
+                </select></div>
+                                    <div id="col-types" class="col-md-4 center">
+                <label class="control-label sr-only" for="s-lg-sel-az-types">Database Types Filter</label>
+                <select id="s-lg-sel-az-types" name="s-lg-sel-az-types" class="form-control" onchange="springSpace.publicObj.filterAzByType(jQuery(this).val(), 4248);" data-placeholder="All Database Types">
+                    <option value="" selected="">All Database Types</option><optgroup label="Types"></optgroup>
+                </select></div>
+                                    <div id="col-vendors" class="col-md-4 center">
+                <label class="control-label sr-only" for="s-lg-sel-az-vendors">Database Vendors Filter</label>
+                <select id="s-lg-sel-az-vendors" name="s-lg-sel-az-vendors" class="form-control" onchange="springSpace.publicObj.filterAzByVendor(jQuery(this).val(), 4248);" data-placeholder="All Vendors / Providers">
+                    <option value="" selected="">All Vendors / Providers</option><optgroup label="Vendors"><option value="84194">Accessible Archives (2)</option><option value="84262">Amedeo (1)</option><option value="84189">American Chemical Society (2)</option><option value="84233">American Library Association (1)</option><option value="84248">American Psychiatric Association (1)</option><option value="84227">American Society of Civil Engineers (2)</option><option value="84226">American Society of Mechanical Engineers (1)</option><option value="84319">ASBMB (1)</option><option value="84188">Association for Computing Machinery (1)</option><option value="84301">Cambridge University Press (1)</option><option value="84353">CARLI Digital Collections (2)</option><option value="84234">Chronicle of Higher Education (1)</option><option value="84241">Congressional Quarterly Inc (3)</option><option value="84242">Credo (2)</option><option value="51785">EBSCO (41)</option><option value="84235">Elsevier (3)</option><option value="84255">Encyclopedia britannica (1)</option><option value="84351">Euromonitor International (2)</option><option value="84198">Federal Goverment (17)</option><option value="84245">Gale (6)</option><option value="84199">Getty Conservation Institute (1)</option><option value="84263">Henry Stewart Talks (1)</option><option value="84303">IBISWorld (1)</option><option value="84231">IBM Watson Health (2)</option><option value="84304">IEEE (1)</option><option value="84260">Indiana University (1)</option><option value="84240">International Journal of Pharmaceutical Compounding (1)</option><option value="84313">International Monetary Fund (1)</option><option value="84317">IOP (1)</option><option value="84318">IPASource (1)</option><option value="84320">JSTOR (1)</option><option value="84321">Kanopy (1)</option><option value="84354">Kantar Media (1)</option><option value="84323">LexisNexis (3)</option><option value="84187">McGraw Hill (2)</option><option value="84358">Medical Letter (1)</option><option value="84330">Medical Letter Inc (1)</option><option value="84331">Mergent Inc (6)</option><option value="84356">Morgan &amp; Claypool (3)</option><option value="84335">Musical America Worldwide (1)</option><option value="84336">National Academy of Sciences (1)</option><option value="84339">Naxos Digital Services (2)</option><option value="84225">OCLC (15)</option><option value="84229">Ovid (6)</option><option value="84324">Oxford University Press (8)</option><option value="84340">PEDro Partnership (1)</option><option value="84341">Philosophy Documentation Center (1)</option><option value="84343">PLOS (1)</option><option value="84345">Plunkett Research (1)</option><option value="84346">Primal Pictures (2)</option><option value="84348">Project MUSE (1)</option><option value="61210">ProQuest (62)</option><option value="84355">S&amp;P Global (1)</option><option value="84237">Sage (4)</option><option value="84352">Salem Press (1)</option><option value="61630">SIL International (1)</option><option value="84247">SIUE (3)</option><option value="84191">Springer Nature (3)</option><option value="84357">TAIR (1)</option><option value="84258">Taylor and Francis (2)</option><option value="84337">Therapeutic Research Center (2)</option><option value="84495">Thomson Reuters (1)</option><option value="84360">United Nations (1)</option><option value="84228">University of Chicago (2)</option><option value="84314">Wiley (3)</option><option value="84261">Wolters Kluwer (2)</option></optgroup>
+                </select></div>
+                                    
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+    <!-- END NAV -->
+    
+               </div>
+            </div>
+        </section>
+        <section>
+            <div id="s-lg-az-cols" class="row">
+                            <div id="col1" class="col-md-8 center">
+                            <div id="s-lg-az-index" class="pad-right-sm">
+                                {{alpha_list}}
+                            </div>
+                            <div id="s-lg-az-search-reset" class="pad-top-med pad-bottom-med">
+                                {{search_reset}}
+                            </div>
+                            <div id="s-lg-az-content" class="pad-right-sm pad-top-med s-lib-box s-lib-box-content">
+                                <div class="bold s-lib-color-lt-grey pad-top-med text-center">Loading...</div>
+                            </div>
+                        </div>
+                <div id="col2" class="col-md-4 center">
+    <div class="content-boxes">
+                            {{chat_widget_box}}
+                            {{popular_box}}
+                            {{trials_box}}
+                            {{content_box_experts}}
+                            {{content_box_guides}}
+    </div>
+                        </div>
+            </div>
+        </section>
+    </div>
+    <!-- END: content -->
+    <!-- BEGIN: Page Footer -->
+    {{system_footer}}
+    <!-- END: Page Footer -->
+    <div id="s-lib-alert" title="">
+                                <div id="s-lib-alert-content"></div>
+                           </div>
+                    <div id="s-lib-popover-title" class="hide">
+                        <span class="text-info"><strong>title</strong></span>
+                        <button type="button" id="popclose" class="close" onclick="jQuery('.s-lib-popover').popover('hide')">&times;</button>
+                    </div>
+                    <div id="s-lib-popover-content" class="hide"><i class="fa fa-refresh fa-spin"></i> Loading...
+                        <button class="btn btn-default btn-sm popclose" type="button">Close</button>
+                    </div>
+                <div id="s-lib-scroll-top">
+                    <a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop: 0}, 750);" title="Back to Top" aria-label="Back to Top"
+                    aria-hidden="true">
+                        <span class="fa-stack fa-lg">
+                          <i class="fa fa-square-o fa-stack-2x"></i>
+                          <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+                        </span>
+                    </a>
+                </div>
+    <!-- BEGIN: Custom Footer -->
+    {{public_footer}}
+    <!-- END: Custom Footer -->
+    </body>

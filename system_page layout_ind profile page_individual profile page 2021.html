@@ -1,0 +1,171 @@
+<body class="s-lib-public-body">
+    {{skip_link}}
+    {{obsolete_browser_alert}}
+    <!-- BEGIN: Page Header -->
+    {{public_header}}
+    <!-- END: Page Header -->
+    <!-- BEGIN: Content Header -->
+    <!-- <div id="s-lib-public-header" class="s-lib-header container s-lib-side-borders">
+        <nav id="s-lib-bc" aria-label="breadcrumb" role="navigation">
+            {{breadcrumbs}}
+        </nav>
+        <h1 id="s-lib-public-header-title">{{page_title}}</h1>
+        <div id="s-lib-public-header-desc">{{page_description}}</div>
+    </div> -->
+    <div class="body-wrap">
+    <div id="s-lg-guide-header" class="s-lib-header s-lib-side-borders">
+        <div class="row">
+            <div class="col-sm-12 col-md-8">
+                <div id="s-lg-guide-header-info">
+                    <h1 id="s-lg-guide-name">{{page_title}}<!--<small style="color: #fff;">{{page_description}}</small>--></h1>
+                    <!-- <div id="s-lib-public-header-desc">{{page_description}}</div> -->
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <div class="">
+                    <!-- pull-right -->
+                    <!-- <div id="s-lg-guide-header-search">
+                        {{search_guides}}
+                    </div>
+                    {{ADMIN_MINI_CMD_BAR}} -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="s-lib-bc">
+        {{breadcrumbs}}
+    </div>
+
+
+    <!-- END: Content Header -->
+    <!-- BEGIN: Nav Bar -->
+    <div id="s-lib-public-nav" class="container s-lib-side-borders">
+        {{page_nav}}
+    </div>
+    <!-- END: Nav Bar -->
+    <!-- BEGIN: content -->
+    <div id="s-lib-public-main" class="s-lib-main container s-lib-side-borders" tabindex="-1">
+        <section aria-label="Profile Content">
+            <div id="s-lg-profile-cols" class="row">
+                <div id="col1" class="col-md-3 center">
+                    {{profile_box}}
+                </div>
+                <div id="col2" class="col-md-6 center profile-main-column">
+                    {{personal_statement}}
+                    {{guide_list}}
+                </div>
+                <div id="col3" class="col-md-3 center">
+                    <div class="specialties-box">
+                        {{content_box_specialties}}
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- END: content -->
+    <!-- BEGIN: Page Footer -->
+    {{system_footer}}
+    <!-- END: Page Footer -->
+    <div id="s-lib-alert" title="">
+                                <div id="s-lib-alert-content"></div>
+                           </div>
+                    <div id="s-lib-popover-title" class="hide">
+                        <span class="text-info"><strong>title</strong></span>
+                        <button type="button" id="popclose" class="close" onclick="jQuery('.s-lib-popover').popover('hide')">&times;</button>
+                    </div>
+                    <div id="s-lib-popover-content" class="hide"><i class="fa fa-refresh fa-spin"></i> Loading...
+                        <button class="btn btn-default btn-sm popclose" type="button">Close</button>
+                    </div>
+                <div id="s-lib-scroll-top">
+                    <a href="javascript:void(0);" onclick="jQuery('body').focus();" title="Back to Top" aria-label="Back to Top">
+                        <span class="fa-stack fa-lg" aria-hidden="true">
+                            <i class="fa fa-square-o fa-stack-2x"></i>
+                            <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+                        </span>
+                    </a>
+                </div>
+                </div>
+    <!-- BEGIN: Custom Footer -->
+    {{public_footer}}
+    <!-- END: Custom Footer -->
+    </body>
+
+    <!-- <style>
+        .s-lib-profile-div a.label.label-info, .s-lib-profile-widget button {
+            background-color: #6d6d6d !important;
+            color: #fff !important;
+            border-radius: 0px !important;
+            font-size: 15px !important;
+            padding: 15px !important;
+            margin-bottom: 12px !important;
+            display: inline-block !important;
+            font-family: Arial, Helvetica, sans-serif !important;
+            line-height: unset !important;
+            font-weight: 400 !important;
+            border-style: unset !important;
+        }
+
+        .s-lib-profile-div a.label.label-info:hover, .s-lib-profile-widget button:hover {
+            background-color: #666 !important;
+            color: #fff !important;
+            text-decoration: none !important;
+            border-style: unset !important;
+            opacity: 1 !important;
+        }
+    </style> -->
+
+    <style>
+        .profile-main-column .s-lib-public-side-header h2 {
+            font: inherit;
+            font-size: 22.5px;
+            color: #333;
+        }
+
+        .specialties-box .s-lib-public-side-header {
+            background-color: #6d6d6d;
+            color: #fff;
+            padding: 15px;
+        }
+
+        .specialties-box .s-lib-public-side-header h2 {
+            color: #fff;
+            border-bottom: none;
+            font-size: 19.5px;
+            font-weight: 400;
+            font-family: inherit;
+        }
+
+        .specialties-box .s-lib-public-side-header h2.pad-bottom-sm {
+            padding: unset;
+        }
+
+        .specialties-box .txt.pad-top-sm {
+            padding: unset;
+        }
+
+        .specialties-box .txt a {
+            display: block;
+            text-decoration: none;
+            font-size: 16.5px !important;
+            padding: 15px;
+            background-color: #ddd;
+            border-bottom: 1px solid #bbb;
+            color: #565656;
+        }
+
+        .specialties-box .txt a:hover, .specialties-box .txt a:visited:hover {
+            background-image: url('https://www.siue.edu/_files/2016/images/linkbox-arrow.png');
+            background-position: 100% 50%;
+            background-repeat: no-repeat;
+            color: #c00;
+            text-decoration: none;
+        }
+
+        .specialties-box .txt a:visited {
+            color: #565656;
+        }
+
+        #s-lib-bc-index {
+            display: none;
+        }
+    </style>

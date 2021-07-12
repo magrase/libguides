@@ -1,0 +1,200 @@
+<body class="s-lg-guide-body">
+    {{skip_link}}
+        {{ADMIN_CMD_BAR}}
+        <!-- BEGIN: Page Header -->
+        {{public_header}}
+        <!-- END: Page Header -->
+        <div class="body-wrap">
+            <!-- BEGIN: Guide Info Header -->
+            <div id="s-lg-guide-header" class="s-lib-header s-lib-side-borders">
+                <div class="row">
+                    <div class="col-sm-12 col-md-8">
+                        <div id="s-lg-guide-header-info">
+                            <h1 id="s-lg-guide-name">{{guide_title}}: {{page_title}}</h1>
+                            <div id="s-lg-guide-desc-container" class="pad-top-med">
+                                <span id="s-lg-guide-description">{{guide_description}}</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4">
+                        <div class="">
+                            <!-- pull-right -->
+                            <div id="s-lg-guide-header-search">
+                                {{guide_search}}
+                            </div>
+                            {{ADMIN_MINI_CMD_BAR}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END: Guide Info Header -->
+                    <div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+            <div id="s-lib-bc">
+                {{breadcrumbs}}
+            </div>
+            <div class="row">
+                <div class="col-md-3" id="guideNavCol">
+                    <div id="s-lg-tabs-container" class="s-lib-side-borders pad-top-med">
+                        <!-- nav -->
+                        <div id="s-lg-guide-tabs" class="tabs">
+                            <ul class="nav nav-pills nav-stacked">
+                                {{guide_nav}}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-9" id="guideContentCol">
+                    <!-- <div id="s-lg-guide-tabs-title-bar" class="s-lib-side-borders"></div> -->
+                    <!-- BEGIN: Guide Content -->
+                    <div id="s-lg-guide-main" class="s-lib-main s-lib-side-borders">
+                        {{content}}
+                        <script>
+                            // Adjust column widths on two-column layouts
+                            var contentCol = document.getElementById("guideContentCol");
+                            var row = contentCol.getElementsByClassName("s-lg-row");
+    
+                            for (let i = 0; i < row.length; i++) {
+                                var col = row[i].children;
+                                
+                                if(row[i].childElementCount === 2) {
+                                    var colsChanged = 0;
+                                    for (let c = 0; c < col.length; c++) {
+                                        if (col[c].className === "col-md-9") {
+                                            col[c].className = "col-md-8";
+                                            colsChanged = colsChanged + 1;
+                                        } else if (col[c].className === "col-md-3") {
+                                            col[c].className = "col-md-4";
+                                            colsChanged = colsChanged + 1;
+                                        }
+                                    }
+                                    console.log(colsChanged + " column widths have been adjusted using JavaScript.");
+                                }
+                            }
+    
+                            // Hide navigation column if one page
+                            var navCol = document.getElementById("guideNavCol");
+                            var navColLiCount = navCol.getElementsByTagName("li").length;
+    
+                            if (navColLiCount === 0) {
+                                navCol.className = "hidden";
+                                contentCol.className = "col-xs-12";
+                            }
+    
+                            // Get rid of inline styles for certain elements
+    
+                            var p = contentCol.getElementsByTagName("p");
+                            var span = contentCol.getElementsByTagName("span");
+                            var linkdesc = contentCol.getElementsByClassName("linkdesc");
+                            var ul = contentCol.getElementsByTagName("ul");
+                            var li = contentCol.getElementsByTagName("li");
+                            var boxatt = contentCol.getElementsByClassName("boxatt");
+                            var a = contentCol.getElementsByTagName("a");
+                            var div = contentCol.getElementsByTagName("div");
+                            var font = contentCol.getElementsByTagName("font");
+                            var strong = contentCol.getElementsByTagName("strong");
+    
+                            var i;
+    
+                            for (i = 0; i < p.length; i++) {
+                            
+                                if (p[i].style.textAlign == "") {
+                                    p[i].style = "";
+                                }
+                            }
+                            
+                            for (i = 0; i < span.length; i++) {
+                                span[i].style = "";
+                            }
+                            
+                            for (i = 0; i < linkdesc.length; i++) {
+                                linkdesc[i].style = "";
+                            }
+                            
+                            for (i = 0; i < ul.length; i++) {
+                                ul[i].style = "";
+                            }
+    
+                            for (i = 0; i < li.length; i++) {
+                                li[i].style = "";
+                            }
+                            
+                            for (i = 0; i < boxatt.length; i++) {
+                                boxatt[i].style = "";
+                            }
+                            
+                            for (i = 0; i < a.length; i++) {
+                                a[i].style = "";
+                            }
+                            
+                            for (i = 0; i < div.length; i++) {
+                                div[i].style = "";
+                            }
+    
+                            for (i = 0; i < font.length; i++) {
+                                font[i].style = "";
+                                font[i].size = "";
+                                font[i].face = "";
+                                font[i].color = "";
+                            }
+    
+                            for (i = 0; i < strong.length; i++) {
+                                strong[i].style = "";
+                                strong[i].size = "";
+                                strong[i].face = "";
+                                strong[i].color = "";
+                            }
+                        </script>
+                        {{page_prev_next_links}}
+                    </div>
+                </div>
+            </div>
+    
+    
+            <!-- END: Guide Content -->
+            <!-- BEGIN: Page Footer -->
+            <div id="s-lib-footer-public" class="s-lib-footer footer s-lib-side-borders">
+                <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+                    <ul id="s-lg-guide-header-attributes" class="">
+                        <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                            <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">{{guide_updated}}
+                            </span>
+                        </li>
+                        <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                            <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">{{guide_url}}
+                            </span>
+                        </li>
+                        <li id="s-lg-guide-print-url">
+                            <a href="{{guide_print_url}}"><i class="fa fa-print" title="Print Page"></i> Print Page</a>
+                        </li>
+                    </ul>
+                    <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+                        <a href="{{login_url}}">Login to LibApps</a>.
+                    </div>
+                </div>
+                <div class="pad-bottom-sm clearfix">
+                    <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                    </div>
+                    <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                        {{guide_subjects}}
+                    </div>
+                    <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                        {{guide_tags}}
+                    </div>
+                </div>
+            </div>
+            <!-- END: Page Footer -->
+            <div id="s-lib-scroll-top" title="Back to Top">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-square-o fa-stack-2x"></i>
+                    <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+                </span>
+            </div>
+            <div id="s-lib-alert" title="">
+                <div id="s-lib-alert-content"></div>
+            </div>
+        </div>
+        <!-- End body-wrap -->
+        <!-- BEGIN: Custom Footer -->
+        {{public_footer}}
+        <!-- END: Custom Footer -->
+    </body>

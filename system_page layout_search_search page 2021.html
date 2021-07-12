@@ -1,0 +1,113 @@
+<body class="s-lib-public-body">
+    {{skip_link}}
+    {{obsolete_browser_alert}}
+    <!-- BEGIN: Page Header -->
+    {{public_header}}
+    <!-- END: Page Header -->
+    <!-- BEGIN: Content Header -->
+    <div class="body-wrap">
+    <div id="s-lg-guide-header" class="s-lib-header s-lib-side-borders">
+        <div class="row">
+            <div class="col-sm-12 col-md-8">
+                <div id="s-lg-guide-header-info">
+                    <h1 id="s-lg-guide-name">{{page_title}}<!--<small style="color: #fff;">{{page_description}}</small>--></h1>
+                    <!-- <div id="s-lib-public-header-desc">{{page_description}}</div> -->
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <div class="">
+                    <!-- pull-right -->
+                    <!-- <div id="s-lg-guide-header-search">
+                        {{search_guides}}
+                    </div> -->
+                    <!-- {{ADMIN_MINI_CMD_BAR}} -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="s-lib-bc">
+        {{breadcrumbs}}
+    </div>
+
+    <!-- <div id="s-lib-public-header" class="s-lib-header container s-lib-side-borders">
+        <nav id="s-lib-bc" aria-label="breadcrumb" role="navigation">
+            {{breadcrumbs}}
+        </nav>
+        <h1 id="s-lib-public-header-title">{{page_title}}
+    </h1>
+        <div id="s-lib-public-header-desc">{{page_description}}
+    </div>
+    </div> -->
+    <!-- END: Content Header -->
+    <!-- BEGIN: Nav Bar -->
+    <div id="s-lib-public-nav" class="container s-lib-side-borders">
+        {{page_nav}}
+    </div>
+    <!-- END: Nav Bar -->
+    <!-- BEGIN: content -->
+    <div id="s-lib-public-main" class="s-lib-main container s-lib-side-borders" tabindex="-1">
+        <section>
+            <div id="s-lg-srch-nav-col" class="row">
+                <div id="col0" class="col-md-12 center">
+                    <div id="search-page-search-box">
+                        <div id="search-page-search-box-containerr" style="background-color: #e7e7e7; padding: 20px;">
+                            <!-- HTML HERE-->
+                            <form id="s-lg-srch-form" class="" role="search" action="srch.php">
+                                <div class="form-group">
+                                    <label for="s-lg-srch-input-q" class="sr-only">Search</label>
+                                    <div class="input-group">
+                                        <input type="text" id="s-lg-srch-input-q" name="q" class="form-control" value="" placeholder="Enter Search Words" aria-controls="s-lg-srch-content">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-default" type="submit">Search</button>
+                                        </span>
+                                    </div>
+                                </div>
+                                <input type="hidden" name="group_id" id="group_id" value="0">
+                                <input type="hidden" name="guide_id" id="guide_id" value="0">
+                            </form>
+                        </div>
+                    </div>
+                    <!-- {{content_box_search}} -->
+                </div>
+                <div id="s-lg-srch-results-msg" class="col-md-12 margin-bottom-sm"></div>
+            </div>
+        </section>
+        <section>
+            <div id="s-lg-srch-cols" class="row">
+                {{content}}
+            </div>
+        </section>
+    </div>
+    <!-- END: content -->
+    <!-- BEGIN: Page Footer -->
+    {{system_footer}}
+    <!-- END: Page Footer -->
+    <div id="s-lib-alert" title="">
+                                <div id="s-lib-alert-content"></div>
+                           </div>
+                    <div id="s-lib-popover-title" class="hide">
+                        <span class="text-info"><strong>title</strong></span>
+                        <button type="button" id="popclose" class="close" onclick="jQuery('.s-lib-popover').popover('hide')">&times;</button>
+                    </div>
+                    <div id="s-lib-popover-content" class="hide"><i class="fa fa-refresh fa-spin"></i> Loading...
+                        <button class="btn btn-default btn-sm popclose" type="button">Close</button>
+                    </div>
+                <div id="s-lib-scroll-top">
+                    <a href="javascript:void(0);" onclick="jQuery('body').focus();" title="Back to Top" aria-label="Back to Top">
+                        <span class="fa-stack fa-lg" aria-hidden="true">
+                            <i class="fa fa-square-o fa-stack-2x"></i>
+                            <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+                        </span>
+                    </a>
+                </div>
+                </div>
+    <!-- BEGIN: Custom Footer -->
+    {{public_footer}}
+    <!-- END: Custom Footer -->
+    </body>
+
+    <style>
+        #s-lg-srch-cols .s-lg-facet-div#s-lg-facet-div-group_id {
+            display: none;
+        }
+    </style>

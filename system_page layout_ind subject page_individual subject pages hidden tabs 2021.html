@@ -1,0 +1,146 @@
+<body class="s-lib-public-body">
+    {{skip_link}}
+    <!-- BEGIN: Page Header -->
+        {{public_header}}
+    <!-- END: Page Header -->
+    <!-- BEGIN: Content Header -->
+    <div class="body-wrap">
+    <!-- <div id="s-lib-public-header" class="s-lib-header container s-lib-side-borders">
+        
+    </div> -->
+
+    <div id="s-lg-guide-header" class="s-lib-header s-lib-side-borders">
+        <div class="row">
+            <div class="col-sm-12 col-md-8">
+                <div id="s-lg-guide-header-info">
+                    <h1 id="s-lg-guide-name">Subject: {{page_title}}<!--<small style="color: #fff;">{{page_description}}</small>--></h1>
+                    <!-- <div id="s-lib-public-header-desc">{{page_description}}</div> -->
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-4">
+                <div class="">
+                    <!-- pull-right -->
+                    <!-- <div id="s-lg-guide-header-search">
+                        {{search_guides}}
+                    </div>
+                    {{ADMIN_MINI_CMD_BAR}} -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="s-lib-bc">
+        {{breadcrumbs}}
+    </div>
+
+
+
+
+
+
+    <!-- END: Content Header -->
+    <!-- BEGIN: Nav Bar -->
+    <div id="s-lib-public-nav" class="container s-lib-side-borders">
+        {{page_nav}}
+    </div>
+    <!-- END: Nav Bar -->
+    <!-- BEGIN: content -->
+    <div id="s-lib-public-main" class="s-lib-main container s-lib-side-borders">
+        <section aria-label="Subject Search Bar">
+            <div  id="s-lg-sb-search-bar"  class="row">
+                <div  id="sb-search-col-1"  class="col-md-12 center">
+                    {{navbar}}
+                </div>
+            </div>
+        </section>
+        <section aria-label="Content by Subject">
+            <div id="s-lg-sb-cols" class="row">
+                <div id="col1" class="col-md-8 center">
+                    <div id="s-lg-hp-nav">
+                    <ul class="nav nav-pills sb">
+                        <!-- Guide tab -->
+                        <li class="s-lg-index-nav-btn active">
+                            <a href="#s-lg-sb-guides" class="btn" data-toggle="tab">{{guides_tab_label}}
+</a>
+                        </li>
+                        <!-- Databases tab -->
+                        <li class="s-lg-index-nav-btn">
+                            <a href="#s-lg-sb-databases" class="btn" data-toggle="tab">{{databases_tab_label}}
+</a>
+                        </li>
+                        <!-- Blog Posts tab -->
+                        <li class="s-lg-index-nav-btn hidden">
+                            <a href="#s-lg-sb-blog-posts" class="btn" data-toggle="tab">{{blog_posts_tab_label}}
+</a>
+                        </li>
+                                                    <!-- ER Courses tab -->
+                        <li class="s-lg-index-nav-btn hidden">
+                            <a href="#s-lg-sb-er-courses" class="btn" data-toggle="tab">{{courses_tab_label}}
+</a>
+                        </li>
+                    </ul>
+                    </div>
+
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="s-lg-sb-guides">
+                            <!-- Guides content -->
+                            <div id="s-lg-sb-content-guides" class="pad-right-sm"></div>
+                        </div>
+                        <div class="tab-pane " id="s-lg-sb-databases">
+                            <!-- Databases content -->
+                            <div id="s-lg-sb-content-databases" class="pad-right-sm"></div>
+                        </div>
+                        <div class="tab-pane " id="s-lg-sb-blog-posts">
+                            <!-- Blog Posts content -->
+                            <div id="s-lg-sb-content-blog-posts" class="pad-right-sm"></div>
+                        </div>
+                        <div class="tab-pane " id="s-lg-sb-er-courses">
+                            <!-- Blog Posts content -->
+                            <div id="s-lg-sb-content-er-courses" class="pad-right-sm"></div>
+                        </div>
+                    </div>
+                </div>
+                <div  id="col2"  class="col-md-4 center">
+                    <div style="padding-top: 9px;"></div>
+                    <div class="content-boxes">
+                        {{content_box_search}}
+                        {{content_box_experts}}
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- END: content -->
+    <!-- BEGIN: Page Footer -->
+    {{system_footer}}
+    <!-- END: Page Footer -->
+    <div id="s-lib-alert" title="">
+                        <div id="s-lib-alert-content"></div>
+                   </div>        
+            <div id="s-lib-popover-title" class="hide">
+                <span class="text-info"><strong>title</strong></span>
+                <button type="button" id="popclose" class="close" onclick="jQuery('.s-lib-popover').popover('hide')">&times;</button>
+            </div>
+            <div id="s-lib-popover-content" class="hide"><i class="fa fa-refresh fa-spin"></i> Loading...
+                <button class="btn btn-default btn-sm popclose" type="button">Close</button>
+            </div>        
+        <div id="s-lib-scroll-top">
+            <a href="javascript:void(0);" onclick="jQuery('html, body').animate({scrollTop: 0}, 750);" title="Back to Top" aria-label="Back to Top"
+            aria-hidden="true">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-square-o fa-stack-2x"></i>
+                  <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <!-- BEGIN: Custom Footer -->
+    {{public_footer}}
+    <!-- END: Custom Footer -->
+</body>
+
+<style>
+    #s-lib-bc-index {
+        display: none;
+    }
+</style>
