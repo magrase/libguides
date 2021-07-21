@@ -1,7 +1,12 @@
+body.s-lib-public-body {
+margin: 0;
+padding: 0;
+}
+
 ul.main-nav-ul {
     list-style-type: none;
     margin: 0;
-    padding:: 0;
+    padding: 0;
     overflow: hidden;
     background-color:#111;
     border-bottom-style:solid;
